@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\1. Array Contains Element\bin\Debug\_1.Array_Contains_Element.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\1. Array Contains Element\bin\Debug\_1.Array_Contains_Element.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\1. Array Contains Element\bin\Debug\_1.Array_Contains_Element.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\1. Array Contains Element\obj\Debug\1. Array Contains Element.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\1. Array Contains Element\obj\Debug\_1.Array_Contains_Element.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\1. Array Contains Element\obj\Debug\_1.Array_Contains_Element.pdb

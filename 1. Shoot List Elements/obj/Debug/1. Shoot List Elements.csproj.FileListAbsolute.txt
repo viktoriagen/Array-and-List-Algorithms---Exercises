@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\1. Shoot List Elements\bin\Debug\_1.Shoot_List_Elements.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\1. Shoot List Elements\bin\Debug\_1.Shoot_List_Elements.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\1. Shoot List Elements\bin\Debug\_1.Shoot_List_Elements.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\1. Shoot List Elements\obj\Debug\1. Shoot List Elements.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\1. Shoot List Elements\obj\Debug\_1.Shoot_List_Elements.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\1. Shoot List Elements\obj\Debug\_1.Shoot_List_Elements.pdb

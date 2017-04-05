@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\2. Average Character Delimiter\bin\Debug\_2.Average_Character_Delimiter.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\2. Average Character Delimiter\bin\Debug\_2.Average_Character_Delimiter.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\2. Average Character Delimiter\bin\Debug\_2.Average_Character_Delimiter.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\2. Average Character Delimiter\obj\Debug\2. Average Character Delimiter.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\2. Average Character Delimiter\obj\Debug\_2.Average_Character_Delimiter.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\2. Average Character Delimiter\obj\Debug\_2.Average_Character_Delimiter.pdb

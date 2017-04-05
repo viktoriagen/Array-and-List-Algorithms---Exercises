@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\4. Sort Array Using Bubble Sort\bin\Debug\_4.Sort_Array_Using_Bubble_Sort.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\4. Sort Array Using Bubble Sort\bin\Debug\_4.Sort_Array_Using_Bubble_Sort.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\4. Sort Array Using Bubble Sort\bin\Debug\_4.Sort_Array_Using_Bubble_Sort.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\4. Sort Array Using Bubble Sort\obj\Debug\4. Sort Array Using Bubble Sort.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\4. Sort Array Using Bubble Sort\obj\Debug\_4.Sort_Array_Using_Bubble_Sort.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\4. Sort Array Using Bubble Sort\obj\Debug\_4.Sort_Array_Using_Bubble_Sort.pdb

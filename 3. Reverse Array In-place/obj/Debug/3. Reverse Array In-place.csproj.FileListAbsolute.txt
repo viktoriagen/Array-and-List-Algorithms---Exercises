@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\3. Reverse Array In-place\bin\Debug\_3.Reverse_Array_In_place.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\3. Reverse Array In-place\bin\Debug\_3.Reverse_Array_In_place.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\3. Reverse Array In-place\bin\Debug\_3.Reverse_Array_In_place.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\3. Reverse Array In-place\obj\Debug\_3.Reverse_Array_In_place.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\3. Reverse Array In-place\obj\Debug\_3.Reverse_Array_In_place.pdb

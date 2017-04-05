@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\6. Insertion Sort Using List\bin\Debug\_6.Insertion_Sort_Using_List.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\6. Insertion Sort Using List\bin\Debug\_6.Insertion_Sort_Using_List.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\6. Insertion Sort Using List\bin\Debug\_6.Insertion_Sort_Using_List.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\6. Insertion Sort Using List\obj\Debug\6. Insertion Sort Using List.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\6. Insertion Sort Using List\obj\Debug\_6.Insertion_Sort_Using_List.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\6. Insertion Sort Using List\obj\Debug\_6.Insertion_Sort_Using_List.pdb

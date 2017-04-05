@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\3. Sort Array of Strings\bin\Debug\_3.Sort_Array_of_Strings.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\3. Sort Array of Strings\bin\Debug\_3.Sort_Array_of_Strings.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\3. Sort Array of Strings\bin\Debug\_3.Sort_Array_of_Strings.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\3. Sort Array of Strings\obj\Debug\3. Sort Array of Strings.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\3. Sort Array of Strings\obj\Debug\_3.Sort_Array_of_Strings.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms - Exercises\3. Sort Array of Strings\obj\Debug\_3.Sort_Array_of_Strings.pdb

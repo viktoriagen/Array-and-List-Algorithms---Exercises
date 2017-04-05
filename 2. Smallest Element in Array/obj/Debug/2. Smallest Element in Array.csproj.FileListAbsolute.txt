@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\2. Smallest Element in Array\bin\Debug\_2.Smallest_Element_in_Array.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\2. Smallest Element in Array\bin\Debug\_2.Smallest_Element_in_Array.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\2. Smallest Element in Array\bin\Debug\_2.Smallest_Element_in_Array.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\2. Smallest Element in Array\obj\Debug\_2.Smallest_Element_in_Array.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Array and List Algorithms\2. Smallest Element in Array\obj\Debug\_2.Smallest_Element_in_Array.pdb
